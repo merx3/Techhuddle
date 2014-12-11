@@ -1,0 +1,13 @@
+{
+    "name": "techhudle/battleship",
+    "authors": [
+        {
+            "name": "Marian Marinov",
+            "email": "marian.mmarinov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"": "application/"}
+    }
+}
